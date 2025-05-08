@@ -5943,7 +5943,7 @@
 											"top": 748,
 											"width": 182,
 											"height": 13,
-											"text": "대여중인 자전거 세부내역 출력"
+											"text": "대여중인 자전거 정보 조회"
 										},
 										{
 											"_type": "LabelView",
@@ -6439,7 +6439,7 @@
 											"top": 692,
 											"width": 169,
 											"height": 13,
-											"text": "자전거 예약대기 리스트 출력"
+											"text": "예약 대기중인 자전거 정보 조회"
 										},
 										{
 											"_type": "LabelView",
@@ -14712,9 +14712,9 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 813,
+									"left": 809,
 									"top": 566,
-									"width": 53.49169921875,
+									"width": 60.1639404296875,
 									"height": 13,
 									"alpha": -1.017432338841115,
 									"distance": 28.231188426986208,
@@ -14811,9 +14811,9 @@
 									},
 									"font": "Arial;13;0",
 									"parentStyle": false,
-									"left": 879,
+									"left": 875,
 									"top": 791,
-									"width": 53.49169921875,
+									"width": 60.1639404296875,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -15685,7 +15685,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGWka0iK35HFqo="
 					},
-					"name": "대여중인 자전거 세부내역 출력"
+					"name": "대여중인 자전거 정보 조회"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -15701,7 +15701,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGWka0iK35HFqo="
 					},
-					"name": "자전거 예약대기 리스트 출력",
+					"name": "예약 대기중인 자전거 정보 조회",
 					"ownedElements": [
 						{
 							"_type": "UMLAssociation",
